@@ -1,0 +1,3 @@
+- Skip folder need for: 
+  - structure 
+  - nested loyout
